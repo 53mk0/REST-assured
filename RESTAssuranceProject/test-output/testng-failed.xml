@@ -5,7 +5,7 @@
     <classes>
       <class name="Test01_GET">
         <methods>
-          <include name="test_01"/>
+          <include name="test_02_PUT"/>
         </methods>
       </class> <!-- Test01_GET -->
     </classes>
